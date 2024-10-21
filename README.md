@@ -1,1 +1,1 @@
-# Classification Applications with the MNIST Dataset
+## Classification Applications with the MNIST Dataset
